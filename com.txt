@@ -1,0 +1,8 @@
+student@student-System-Product-Name:~/workspace$ cd MyAlarm/
+student@student-System-Product-Name:~/workspace/MyAlarm$ cd ~/tizen-sdk/tools/
+student@student-System-Product-Name:~/tizen-sdk/tools$ ./sdb connect 192.168.0.38:21101
+error: failed to connect to remote target '192.168.0.38'
+student@student-System-Product-Name:~/tizen-sdk/tools$ ./sdb connect 192.168.0.38:26101
+connecting to 192.168.0.38:26101 ...
+connected to 192.168.0.38:26101
+student@student-System-Product-Name:~/tizen-sdk/tools$ 
